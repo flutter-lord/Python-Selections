@@ -6,6 +6,15 @@ t.forward(100)
 
 t.done()
 
+import turtle as t
+t.penup()
+
+t.circle(24)
+
+
+
+
+
 
 
 
