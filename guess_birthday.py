@@ -29,6 +29,7 @@ question3 = "\nIs your birthday in  table3 below?\n" + \
     "28\t29\t30\t31\n" + \
     "Enter 0 for No and 1 for Yes : "
 answer = eval(input(question3))
+
 if answer == 1:
     day+= 4
 
@@ -39,6 +40,7 @@ question4 = "\nIs your birthday in table4 below?\n" + \
     "28\t29\t30\t31\n" + \
     "Enter 0 for No and 1 for Yes :"
 answer = eval(input(question4))
+
 if answer == 1:
     day+= 8
 
@@ -49,6 +51,7 @@ question5 = "\nIs your birthday in table5 below?\n" + \
     "28\t29\t30\t31\n" + \
     "Enter 0 for No and 1 for Yes : "
 answer = eval(input(question5))
+
 if answer == 1:
     day += 16
 
