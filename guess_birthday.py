@@ -55,4 +55,4 @@ answer = eval(input(question5))
 if answer == 1:
     day += 16
 
-print("Your birthday is" + " " + str(day) + "!")
+print("\nYour birthday is" + " " + str(day) + "!")
