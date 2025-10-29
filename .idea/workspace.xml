@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb53c470-843d-428a-9f49-6fd7883e0547" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/divisible_by_3_and_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chiamaka_quest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.chiamaka_quest.executor": "Run",
     "Python.divisible_by_3_and_2.executor": "Run",
     "Python.guess_birthday.executor": "Run",
     "Python.income_tax.executor": "Run",
