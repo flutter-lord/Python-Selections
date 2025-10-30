@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb53c470-843d-428a-9f49-6fd7883e0547" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/circle_points.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quadratic_equation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/circle_points.py" beforeDir="false" afterPath="$PROJECT_DIR$/circle_points.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lottery.py" beforeDir="false" afterPath="$PROJECT_DIR$/lottery.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +63,7 @@
     "Python.min_and_max_numbers.executor": "Run",
     "Python.new_welcome.executor": "Run",
     "Python.person_bmi.executor": "Run",
+    "Python.quadratic_equation.executor": "Run",
     "Python.radius.executor": "Run",
     "Python.random_number_subtraction.executor": "Run",
     "Python.random_numbers.executor": "Run",
@@ -223,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761770401045</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="commit">
+      <option name="closed" value="true" />
+      <created>1761771943847</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1761771943847</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
