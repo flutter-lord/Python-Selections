@@ -10,14 +10,14 @@ if decision == 0:
     dollar = eval(input("Enter the dollar: "))
     yuan = 6.81 * dollar
 
-    print(dollar,"dollar(USD) is equals to", yuan,"yuan(CHY)")
+    print("$",dollar,"dollar(USD) is equals to", yuan,"yuan(CHY)")
 
 elif decision == 1:
     print("You are converting CHY(Chinese yuan) to USD(US dollar)\n")
     yuan = eval(input("Enter the  yuan: "))
     dollar = yuan / 6.81
 
-    print(yuan,"yuan(CHY) is equals to", dollar,"dollar(USD)")
+    print(yuan,"yuan(CHY) is equals to $",dollar,"dollar(USD)")
 
 else:
     print("input 0 and 1 only")
