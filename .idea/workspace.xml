@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb53c470-843d-428a-9f49-6fd7883e0547" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rock_paper_scissors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random generates.py" beforeDir="false" afterPath="$PROJECT_DIR$/random generates.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,35 +49,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.chiamaka_quest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.circle_points.executor&quot;: &quot;Run&quot;,
-    &quot;Python.divisible_by_3_and_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.future_date.executor&quot;: &quot;Run&quot;,
-    &quot;Python.guess_birthday.executor&quot;: &quot;Run&quot;,
-    &quot;Python.income_tax.executor&quot;: &quot;Run&quot;,
-    &quot;Python.increasing_order.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leap_year.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lottery.executor&quot;: &quot;Run&quot;,
-    &quot;Python.min_and_max_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.month_days.executor&quot;: &quot;Run&quot;,
-    &quot;Python.new_welcome.executor&quot;: &quot;Run&quot;,
-    &quot;Python.person_bmi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.quadratic_equation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.radius.executor&quot;: &quot;Run&quot;,
-    &quot;Python.random generates.executor&quot;: &quot;Run&quot;,
-    &quot;Python.random_generate.executor&quot;: &quot;Run&quot;,
-    &quot;Python.random_number_subtraction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.random_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.23663522&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.chiamaka_quest.executor": "Run",
+    "Python.circle_points.executor": "Run",
+    "Python.divisible_by_3_and_2.executor": "Run",
+    "Python.future_date.executor": "Run",
+    "Python.guess_birthday.executor": "Run",
+    "Python.income_tax.executor": "Run",
+    "Python.increasing_order.executor": "Run",
+    "Python.leap_year.executor": "Run",
+    "Python.lottery.executor": "Run",
+    "Python.min_and_max_numbers.executor": "Run",
+    "Python.month_days.executor": "Run",
+    "Python.new_welcome.executor": "Run",
+    "Python.person_bmi.executor": "Run",
+    "Python.quadratic_equation.executor": "Run",
+    "Python.radius.executor": "Run",
+    "Python.random generates.executor": "Run",
+    "Python.random_generate.executor": "Run",
+    "Python.random_number_subtraction.executor": "Run",
+    "Python.random_numbers.executor": "Run",
+    "Python.rock_paper_scissors.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.splitter.proportion": "0.23663522"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -310,7 +310,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761888760857</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="commit">
+      <option name="closed" value="true" />
+      <created>1761927368780</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1761927368780</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
