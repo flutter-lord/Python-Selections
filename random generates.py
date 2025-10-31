@@ -18,4 +18,3 @@ string_letter = random.choice(string.ascii_lowercase)
 print(string_letter)
 
 
-
