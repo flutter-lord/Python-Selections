@@ -171,7 +171,7 @@ elif today_day == 5:
     print(future_day_digit, "days after", today_day_in_week, "is", future_day_in_week)
 
 
-else:
+elif today_day == 6:
     today_day_in_week = "Saturday"
 
     if future_days == 0:
