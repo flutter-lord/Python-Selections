@@ -4,9 +4,10 @@
 # counted as months 13 and 14 of the previous year
 # j = the century (e.g ....year \ 100)
 # k = the year of the century (i.e... year % 100)
+import random
 
 year, m, q, = eval(input("Enter the year, month and the day in the month separated by a comma e.g (2003, 5, 24): "))
-j = (year // 100) + 1
+j = (year // 100) #+ 1
 k = year % 100
 
 h = int(q + (26 * (m + 1) / 10) + k + (k / 4) + (j / 4) + (5 * j)) % 7
